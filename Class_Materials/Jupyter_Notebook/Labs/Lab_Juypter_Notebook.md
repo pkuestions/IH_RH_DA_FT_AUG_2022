@@ -16,7 +16,6 @@ In the notebook that you created, you will introduce someone and her/his holiday
 + Explain the purpose of the notebook with a markdown cell
 + Write a function that takes an input - which will be the selected person's name
 + upload a photo of that person to the notebook 
-+ Write a function that takes input for their holidays preference. This can be one question or multiple questions to understand this person's preferences. Make sure you test it yourself. 
 + Add a photo or screenshot of the holiday destination
 + Add bullet points of the top 3 things that the person likes to do  at this destination.
 + add relevant annotations to explain any function  you have used 
