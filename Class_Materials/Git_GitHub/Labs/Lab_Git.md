@@ -21,7 +21,7 @@ Great! This was pretty smooth, we hope. :rocket:
 
 Now let's practice the collaboration part.
 
-### Pair Programming exercise
+### Git Collaboration exercise
 
 Pair yourself with a classmate. Send the link to your repository on GitHub to your peer. Choose which one of your repositories will be the central repository that you both will collaborate on. That means ONLY your repository (or your peer's repository) will be the central repository for both of you. 
 
