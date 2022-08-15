@@ -1,5 +1,5 @@
 # Activites List
-- It is highly encouraged to work in a group of two studetns for the lab of this case study.
+- It is highly encouraged to work in a group of two students for the lab of this case study.
 - <b>Important: for Activity 1, Activity 2 and  Activity 3 , please use the files [file1.csv](./Data/file1.csv), [file2.csv](./Data/file2.csv) and [file3.csv](./Data/file3.csv) from the [Data](./Data) folder.</b>
 ### Activity 1 (Monday)
 
