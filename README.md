@@ -1,4 +1,4 @@
-test
+
 <!-- Yay, no errors, warnings, or alerts! -->
 
 <div align="center">
@@ -59,6 +59,10 @@ test
 ---
 
 **👉 **&nbsp;** Table of Contents**
+
+<details>
+
+<summary>📅  &nbsp; Week 1 - Python basics,  Data analysis Intro</summary>
 
 
 <table>
@@ -266,9 +270,7 @@ Weekly Retro
 </table>
 
 
-<details>
-
-<summary>📅  &nbsp; Week 2 - EDA </summary>
+</details>
 
 
 <table>
@@ -433,8 +435,6 @@ Weekly Retro
   </tr>
 </table>
 
-
-</details>
 
 <details>
 

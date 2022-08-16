@@ -68,7 +68,7 @@ The package cost (including the mail cost) is \$0.68 per piece mailed.
 
 ### Analysis time frame and reference date
 
-The mailing was sent out in June 2018. All information included in the file (excluding the giving history date fields) is reflective of behavior before 6/97. This date may be used as the reference date in generating the "number of months since" or "time since" or "elapsed time" variables. You can also find the reference date information in the filed `ADATE_2`. This filed contains the dates the promotion was mailed.
+The mailing was sent out in June 2018. All information included in the file (excluding the giving history date fields) is reflective of behavior before 6/97. This date may be used as the reference date in generating the "number of months since" or "time since" or "elapsed time" variables. You can also find the reference date information in the filed `ADATE_2`. This field contains the dates the promotion was mailed.
 
 ## Data Sources and Order & Type of the variables in the data set
 
