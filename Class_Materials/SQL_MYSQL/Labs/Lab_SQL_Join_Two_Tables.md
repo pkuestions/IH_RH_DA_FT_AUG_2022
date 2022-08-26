@@ -51,14 +51,31 @@ Expected output:
 Mike	Hillyer		23 Workhaven Lane
 Jon	Stephens	1411 Lillydale Drive
 ```
-5. Display the total amount rung up by each staff member in August of 2005.
+5. get films titles where the film language is either English or italian, 
+and whose titles starts with letter "M" , sorted by title descending.
+
+Expected output:
+71 rows including
+```shell
+title,name
+"MYSTIC TRUMAN",English
+"MUSSOLINI SPOILERS",English
+"MUSKETEERS WAIT",English
+"MUSIC BOONDOCK",English
+"MUSCLE BRIGHT",English
+"MURDER ANTITRUST",English
+"MUPPET MILE",English
+"MUMMY CREATURES",English
+"MULHOLLAND BEAST",English
+```
+6. Display the total amount rung up by each staff member in August of 2005.
 
 Expected output:
 ```shell
 Jon Stephens	12218.48
 Mike Hillyer	11853.65
 ```
-6. List each film and the number of actors who are listed for that film.
+7. List each film and the number of actors who are listed for that film.
 
 Expected output: Top 10 out of 997 rows
 ```shell
@@ -73,7 +90,7 @@ HELLFIGHTERS SIERRA	12
 LONELY ELEPHANT		12
 ARABIA DOGMA		12
 ```
-7. Using the tables `payment` and `customer` and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name.
+8. Using the tables `payment` and `customer` and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name.
 
 Expected output:  Top 10 out of 599 rows
 ```shell
@@ -88,6 +105,19 @@ LISA	ANDERSON	106.76
 JOSE	ANDREW	96.75
 IDA	ANDREWS	76.77
 ```
+
+9. Write sql statement to check if you can find any actor who never particiapted in any film. 
+
+Expect output: no actor found. 
+
+10. get the addresses that has NO customers, and ends with the letter "e" 
+```shell
+address
+"47 MySakila Drive"
+"23 Workhaven Lane"
+"1411 Lillydale Drive"
+```
+
 - **Optional**: Which is the most rented film?
 The answer is Bucket Brotherhood
 This query might require using more than one join statement. Give it a try.
