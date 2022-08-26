@@ -1,6 +1,7 @@
 ### Activity
 (Wednesday)
 #### Linear Regression
+- XY Split.
 - Train-test split.
 - Standardize the data (after the data split).
 - Apply linear regression.
