@@ -118,7 +118,8 @@ address
 "1411 Lillydale Drive"
 ```
 
-- **Optional**: Which is the most rented film?
-The answer is Bucket Brotherhood
+- **Optional**: what is the most rented film?
+
+The answer is "Bucket Brotherhood" . <br>
 This query might require using more than one join statement. Give it a try.
 
