@@ -13,4 +13,9 @@
 
 Hint: here is the statistic [table](https://yuppal.people.ysu.edu/econ_3790/t-table.pdf ) 
 ### Optional
-2. In a packing plant, a machine packs cartons with jars. It is supposed that a new machine will pack faster on the average than the machine currently used. To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. The results, in seconds, are shown in the tables in the file `Data/machine.txt`. Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other
+2. In a packing plant, a machine packs cartons with jars. It is supposed that a new machine will pack faster on the average than the machine currently used. To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. The results, in seconds, are shown in the tables in the file `Data/machine.txt`. Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other.
+
+Hint: use two sample t-test
+
+t= (sample_mean(x1) - sample_mean(x2)) / sqrt(square(s1)/n1  +  square(s2)/n2 )
+
