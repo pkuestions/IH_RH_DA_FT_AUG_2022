@@ -1,7 +1,7 @@
 ### Activity
 (Wednesday)
 #### Linear Regression
-- XY Split.
+- X-y split (y is the target variable, which is the total claim amount)
 - Train-test split.
 - Standardize the data (after the data split).
 - Apply linear regression.
