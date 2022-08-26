@@ -1,4 +1,4 @@
-# Activites List
+# Activities List
 Check the previous Done Activities in the [link](./Activities.md).
 
 ### Tasks 
