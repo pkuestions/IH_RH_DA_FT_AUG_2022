@@ -6,13 +6,7 @@ In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/
 
 ### Instructions
 
-1. How many copies of the film _Hunchback Impossible_ exist in the inventory system?
-
-Expected output:
-```shell
-6
-```
-2. List all films whose length is longer than the average of all the films.
+1. List all films whose length is longer than the average of all the films.
 
 Expected output:
 ```shell
@@ -26,6 +20,12 @@ WRATH MILE
 WRONG BEHAVIOR
 YOUNG LANGUAGE
 YOUTH KICK
+```
+2. How many copies of the film _Hunchback Impossible_ exist in the inventory system?
+
+Expected output:
+```shell
+6
 ```
 
 3. Use subqueries to display all actors who appear in the film _Alone Trip_.

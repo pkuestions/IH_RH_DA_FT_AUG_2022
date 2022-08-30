@@ -272,6 +272,10 @@ Weekly Retro
 
 </details>
 
+<details>
+
+<summary>📅  &nbsp; Week 2 - EDA </summary>
+
 
 <table>
   <tr>
@@ -436,9 +440,11 @@ Weekly Retro
 </table>
 
 
+</details>
+
 <details>
 
-<summary>📅  &nbsp; Week 3 - Database, Visualization </summary>
+<summary>📅  &nbsp; Week 3 - Databases - Visualizations</summary>
 
 
 <table>
@@ -448,9 +454,7 @@ Weekly Retro
 <strong>Week 3 | Day 5 `s Learning Objectives:</strong>
 <ul>
 
-<li>Data Visualization
-
-<li>Business Intelligence Intro
+<li>Business Intelligence
 
 <li>Tableau
 
@@ -460,21 +464,21 @@ Weekly Retro
 <strong>Week 3 | Day 4 `s Learning Objectives:</strong>
 <ul>
 
+<li>Having clause
+
+<li>Temporary Table
+
 <li>Data Warehousing
 
 <li>Data Visualization
 
-<li>Tableau
+<li>Intro Tableau
 
 <p>
 <strong>Week 3 | Day 3 `s Learning Objectives:</strong>
 <ul>
 
 <li>Subqueries
-
-<li>Temporary Table
-
-<li>Views
 
 <p>
 <strong>Week 3 | Day 2 `s Learning Objectives:</strong>
@@ -546,21 +550,21 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
+   </td>
+   <td>[SQL Having clause]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Warehousing</a>
+<p>
+<br>
+<p>
 <a href="https://docs.google.com/presentation/d/1XtSNJEuemapwNXiiCxEN19kP3zqLaYq3/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Temporary Table/ Views</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Warehousing</a>
-<p>
-<br>
-<p>
 <a href="https://docs.google.com/presentation/d/1_u6IJAzdUadrMM-yT6mwNYVi1gUMqXfq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1SGiHOxZ0IjS_OMiwNUk1x8XJC6EEmbEi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualization</a>
 <p>
 <br>
 <p>
@@ -591,20 +595,12 @@ Weekly Retro
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Dashboards.md">[LAB] Tableau Dashboard</a>
-<p>
-<br>
-<p>
-<a href="https://public.tableau.com/de-de/s/interactive-resume-gallery">[Lab] [Optional] Resume using Tableau  </a>
    </td>
   </tr>
 </table>
 
 
 </details>
-
-<details>
-
-<summary>📅  &nbsp; Week 4 - Linear Regression, Hypothesis Testing</summary>
 
 
 <table>
@@ -614,7 +610,9 @@ Weekly Retro
 <strong>Week 4 | Day 5 `s Learning Objectives:</strong>
 <ul>
 
-<li>Hypothesis Testing - Two Sample Test
+<li>Hypothesis Testing
+
+<li>Mid term project briefing
 
 <li>Recap
 
@@ -652,11 +650,9 @@ Weekly Retro
 
 <li>Storytelling with Data
 
-<li>MongoDB
+<li>Data Visualization
 
 <li>Machine Learning Intro.
-
-<li>Distributions.
 
 <li>Data Transformation.
 </li>
@@ -686,7 +682,9 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
+   <td><a href="https://docs.google.com/presentation/d/1SGiHOxZ0IjS_OMiwNUk1x8XJC6EEmbEi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualization</a>
+<p>
+<br> <a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
 <p>
 <br>
 <p>
@@ -703,6 +701,10 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
+<p>
+<br>
+<p>
+<a href="https://public.tableau.com/de-de/s/interactive-resume-gallery">[Lab] [Optional] Resume using Tableau  </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
 <p>
@@ -746,14 +748,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Two Sample T-Test</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2022/blob/main/Class_Materials/Statistics/Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
-<p>
-<br>
-<p>
 <a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
 <p>
 <br>
@@ -771,8 +765,6 @@ Weekly Retro
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
